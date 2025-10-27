@@ -1,0 +1,22 @@
+Ci= cluster 𝑖
+
+
+𝑥
+𝑗
+x
+j
+	​
+
+ = a data point in cluster 
+𝑖
+i
+
+𝜇
+𝑖
+μ
+i
+	​
+
+ = centroid of cluster 
+𝑖
+i
